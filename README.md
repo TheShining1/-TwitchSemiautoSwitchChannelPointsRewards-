@@ -1,6 +1,7 @@
 # TwitchSemiautoSwitchChannelPointsRewards
 
 This action will change your channel points rewards according to your Twitch category.
+
 Full video: https://www.youtube.com/watch?v=QSGH1VhKgSA
 
 ## Import code for Streamer.Bot
